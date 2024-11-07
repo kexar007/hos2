@@ -101,6 +101,7 @@ body {
 .contact {
     text-align: center;
     background-color: var(--theme-bg-color);
+    margin: 10px;
 }
 
 /* Light mode styles */
