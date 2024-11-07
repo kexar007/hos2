@@ -29,7 +29,7 @@ body {
     padding: 0%;
     display: grid;
     grid-template-columns: auto;
-    grid-template-rows: min(70vh) min-content min(80vh);
+    grid-template-rows: min(98vh) min-content min(80vh);
     color: var(--theme-color);
     width: 100%;
 }
