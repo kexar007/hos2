@@ -48,10 +48,7 @@ body {
     justify-content: center;
     margin: 10px;
 }
-.banner #logo{
-    
-    
-}
+
 .banner img{
     height: clamp(50px, 20vw, 250px);
     width: clamp(50px, 20vw, 250px);
